@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.div{
+    width: 200px;
+    height: 100px;
+    color: bisque;
+
+}
+.name{
+    color: pink;
+    font-weight: 3px;
+    font-family: 'Roboto', sans-serif;
+}
+.text{
+    font-size: 400 ;
+    font-family: 'Roboto', sans-serif;
+}
